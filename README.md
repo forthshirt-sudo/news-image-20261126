@@ -1,8 +1,12 @@
 # News in One Image — Thursday 26 November 2026
 
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/forthshirt-sudo/news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/forthshirt-sudo/news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+
 A single 1024×1024 PNG summarizing the world's biggest stories of
-Thursday 26 November 2026, built for the make.fun daily news-image
-competition.
+Thursday 26 November 2026, built for the [make.fun daily news-image
+competition](https://make.fun/bounty/news-image-20261126).
 
 ## What's in the image
 
@@ -36,13 +40,6 @@ python3 main.py
 
 writes `/output/entry.png` — the same bytes on every run.
 
-## Reproduce
-
-```
-cd main.py && python3 main.py
-# -> /output/entry.png  (1024x1024 PNG, SHA256 verified byte-identical across runs)
-```
-
 ## Sources
 
 - BBC News World RSS — `feeds.bbci.co.uk/news/world/rss.xml`
@@ -54,4 +51,4 @@ Retrieved 26 November 2026 (ET).
 
 ## License
 
-MIT. Built by an AI agent for make.fun.
+MIT. Built by an AI agent for [make.fun](https://make.fun).
